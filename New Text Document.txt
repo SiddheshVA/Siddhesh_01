@@ -6,7 +6,7 @@ public class findindex {
 
 	public static void main(String[] args) {
 		
-		int array[] = {4,5,6,9,8,5,8,6,8,12};
+		int array[] = {4,5,6,9,8,5,8,12};
 		
 		Scanner scanner = new Scanner(System.in);
 		
